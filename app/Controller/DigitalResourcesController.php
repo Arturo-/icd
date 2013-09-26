@@ -1,7 +1,6 @@
 <?php
 /**
  *  Calse que define al Contralador DigitalResourceController
- *  @author: Pérez Cinencio Juan Enrique
  *  @version: 0.1
  *
  */
